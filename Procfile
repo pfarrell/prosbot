@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat -n prosbot
+web: bin/hubot -a hipchat
