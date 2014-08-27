@@ -2,5 +2,6 @@
   "redis-brain.coffee", 
   "shipit.coffee", 
   "twitter.coffee",
-  "ackbar.coffee"
+  "ackbar.coffee",
+  "xkcd.coffee"
 ]
