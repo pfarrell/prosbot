@@ -4,5 +4,6 @@
   "twitter.coffee",
   "ackbar.coffee",
   "xkcd.coffee",
-  "jordan.coffee"
+  "jordan.coffee",
+  "jira-issues.coffee"
 ]
