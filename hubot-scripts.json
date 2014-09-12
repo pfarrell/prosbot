@@ -5,6 +5,5 @@
   "ackbar.coffee",
   "xkcd.coffee",
   "jordan.coffee",
-  "jira-issues.coffee",
-  "servicing.coffee"
+  "jira-issues.coffee"
 ]
